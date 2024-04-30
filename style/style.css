@@ -1,0 +1,135 @@
+.container{
+    width: 100;
+    max-width: 1220px;
+    margin: 0 auto;
+}
+body{
+    background-color: #F7F9FC;
+}
+.div{
+    display: flex;
+    gap: 32px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.left{
+    width: 484.61px;
+    
+    
+}
+
+.label{
+    display: block;
+}
+.label1{
+    display: block;
+}
+.label2{
+    display: block;
+}
+.label3{
+    display: block;
+}
+.label4{
+    display: block;
+}
+.label5{
+    display: block;
+}
+.label6{
+    display: block;
+}
+.label7{
+    display: block;
+}
+.right{
+    background-color: white;
+    padding: 85px 61px;
+}
+.input{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-bottom: 32px;
+    margin-top: 12px;
+    border: none;
+}
+.input2{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-top: 12px;
+    border: none;
+}
+.input3{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-bottom: 32px;
+    margin-top: 12px;
+    border: none;
+    
+}
+.input4{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-top: 12px;
+    border: none;
+}
+.input5{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-bottom: 32px;
+    margin-top: 12px;border: none;
+}
+.input6{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-top: 12px;
+    border: none;
+}
+.input7{
+    padding: 20px;
+    color: aqua;
+    border-radius: 16px;
+    margin-top: 12px;
+    margin-bottom: 32px;
+    border: none;
+}
+
+.submit{
+    padding: 26px 20px;
+    background-color: #0075FF;
+    border: none;
+    border-radius: 14px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.btn{
+    padding: 15px 10px;
+    background-color: white;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+    color: #211F54
+}
+.hr{
+    color: #DCDDEB;
+    width: 486.61px;
+}
+.call-us{
+    display: flex;
+    width:
+    height: 
+}
